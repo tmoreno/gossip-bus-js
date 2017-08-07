@@ -1,0 +1,11 @@
+{
+  "name": "gossip-bus-js",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "nodemon --exec jasmine --config=test/config/jasmine.json"
+  },
+  "devDependencies": {
+    "jasmine": "2.7.0",
+    "nodemon": "1.11.0"
+  }
+}
